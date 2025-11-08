@@ -1,0 +1,31 @@
+{
+  "name": "create-vrtw-usgmathe",
+  "version": "1.1.5",
+  "description": "CLI to create a new project using the Vite + React + TypeScript + Tailwind minimal template.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usgmathe/create-vrtw-usgmathe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usgmathe/create-vrtw-usgmathe/issues"
+  },
+  "homepage": "https://github.com/usgmathe/create-vrtw-usgmathe#readme",
+  "type": "module",
+  "bin": {
+    "create-vrtw-usgmathe": "index.js"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "typescript",
+    "tailwind",
+    "template",
+    "starter",
+    "cli"
+  ],
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "kolorist": "^1.8.0",
+    "ora": "^7.0.1"
+  }
+}
